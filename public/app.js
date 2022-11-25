@@ -5,6 +5,6 @@ $(document).ready(function () {
 
     console.log(para);
 
-    $("#t1").html("Hello, World!");
-    $("#t2").html("Hello, World!");
+    // $("#t1").html("Hello, World!");
+    // $("#t2").html("Hello, World!");
 });
